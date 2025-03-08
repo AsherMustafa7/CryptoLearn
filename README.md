@@ -1,4 +1,4 @@
-<!-- # CryptoLearn
+# CryptoLearn
 
 CryptoLearn is a blockchain-powered educational resource sharing platform. Users can share repositories (e.g., study notes, projects, code samples) and receive crypto token rewards for their contributions. The platform is built with Next.js 15, TypeScript, and Tailwind CSS on the frontend, while a smart contract deployed on a local Ganache instance handles token rewards.
 
@@ -19,5 +19,5 @@ CryptoLearn is a blockchain-powered educational resource sharing platform. Users
 - **Local Data Storage:** `data.json` for user/repository data, and `notices.json` for public notices
 - **API Routes:** Next.js API routes for CRUD operations on repositories and notices
 
-## Project Structure -->
+## Project Structure 
 
